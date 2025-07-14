@@ -1,10 +1,30 @@
-# 💫 About Me:
-- 👋 Hi, I’m @tanexy
-- 👀 I’m interested in fullstack application development
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on any feasible coding practice
-- 📫 How to reach me tanakaclive29@gmail.com<br>
-🔭 I’m currently working on a email builder template using reactjs<br>👯 I’m looking to collaborate on anything that uses flutter,react,javascript or golang<br>🤝 I’m open to new ideas in fullstack application development,sql,apis,postgresql and responsive design<br>🌱 I’m currently learning react,nextjs and vue<br>💬 Have anything in mind reach me :  tanakaclive29@gmail.com<br>⚡ Fun fact : Did you know? The first computer "bug" was a literal bug! In 1947, computer scientist Grace Hopper and her team found a moth trapped in a relay of the Harvard Mark II computer, causing it to malfunction. They removed the bug and taped it to their logbook, marking it as the "first actual case of bug being found." This is where the term "debugging" comes from!
+# 💼 About Me
+
+👋 Hi, I'm **Tanaka Clive (@tanexy)** — a driven and passionate **Full-Stack Software Engineering student** with a strong focus on building scalable, intuitive, and user-friendly applications.
+
+🎯 **Areas of Interest:**
+
+* **Frontend:** React, Vue, Next.js
+* **Backend:** Node.js, Golang
+* **Mobile Development:** Flutter
+* **Databases & APIs:** PostgreSQL, RESTful APIs
+* **Other Tools:** Git, Docker, Postman
+
+📚 **Currently Learning:**
+I'm expanding my skills in modern web technologies like **React**, **Vue**, and **Next.js**, with a focus on clean architecture, performance optimization, and responsive UI/UX design.
+
+🤝 **Open to Collaborate On:**
+
+* Full-stack application development
+* API design and integration
+* UI/UX implementation
+* Real-world coding challenges and open-source contributions
+
+💬 **Let’s Connect:**
+Feel free to reach out via **[tanakaclive29@gmail.com](mailto:tanakaclive29@gmail.com)** to collaborate, share ideas, or connect over anything tech-related.
+
+⚡ **Did You Know?**
+The term *“debugging”* originated in 1947 when engineers found a **moth** inside a computer (Harvard Mark II), causing it to malfunction. They removed the insect and documented it — marking the first literal case of a *"bug"* in computing.
 
 
 # 💻 Tech Stack:
