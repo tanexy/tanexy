@@ -611,33 +611,6 @@ build upon tomorrow.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanexy&theme=github_dark&utcOffset=2"/>
 
 </div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-> **Enable the GitHub Action in your profile repository to generate this animation automatically.**
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/tanexy/tanexy/output/github-contribution-grid-snake-dark.svg"/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/tanexy/tanexy/output/github-contribution-grid-snake.svg"/>
-
-<img
-alt="Contribution Snake"
-src="https://raw.githubusercontent.com/tanexy/tanexy/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
-</div>
-
 ---
 
 # 📈 2026 Goals
