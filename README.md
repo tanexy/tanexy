@@ -101,15 +101,19 @@ public class Developer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanexy&show_icons=true&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=tanexy&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tanexy&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanexy&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanexy&theme=tokyonight&hide_border=true"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tanexy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tanexy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanexy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
