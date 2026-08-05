@@ -1,27 +1,148 @@
-#  About Me:
-👋 Hi, I’m Tanaka Clive (@tanexy)<br><br> Full-Stack Software Engineer focused on building scalable, performant, and user-friendly applications.<br>I enjoy solving real-world problems with clean architecture, modern tooling, and thoughtful UI/UX.<br><br>  **_Tech Stack_ _&_ _Interests_** <br><br>Frontend: React · Vue · Next.js<br>Backend: .C# .NET · Golang<br>Mobile: Flutter<br>Databases & APIs: PostgreSQL · RESTful APIs<br>Tools: Git · Docker · Postman<br><br> **_Currently_ _Learning_** <br><br>Advanced patterns in React, Vue, and Next.js<br><br>Clean architecture and scalable system design<br><br>Performance optimization and responsive UI/UX<br><br> **_Open_ _to_ _Collaboration_** <br><br>Full-stack web applications<br><br>API design & integrations<br><br>UI/UX-focused frontend work<br><br>Open-source and real-world coding challenges<br><br> **_Get in Touch_** <br><br>📧 Email: tanakaclive29@gmail.com<br><br>⚡ _Fun_ _Fact_ <br><br>The word “debugging” comes from a real moth found inside a computer in 1947 🐛
+<h1 align="center">Hi 👋, I'm Clive Tanaka Hapadziwi</h1>
 
+<h3 align="center">
+Full-Stack Software Engineer • .NET • Golang • React • Vue
+</h3>
 
-# 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/musharukwa007.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clive-tanaka-hapadziwi) 
+<p align="center">
+Building scalable software, APIs and business systems that solve real-world problems.
+</p>
 
-# 💻Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanexy&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tanexy&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanexy&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanexy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tanexy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Building+Modern+.NET+Applications;Backend+Developer+with+Golang;API+Integrations+%7C+Cloud+Solutions;Always+Learning+Something+New" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tanexy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+```csharp
+public class Developer
+{
+    public string Name => "Clive Tanaka Hapadziwi";
+
+    public string[] Languages =>
+    [
+        "C#",
+        "Go",
+        "JavaScript",
+        "TypeScript",
+        "Python"
+    ];
+
+    public string[] Frameworks =>
+    [
+        ".NET",
+        "React",
+        "Vue",
+        "Next.js",
+        "Flutter"
+    ];
+
+    public string CurrentFocus =>
+        "Scalable APIs, Clean Architecture, ERP Integrations, Cloud Systems";
+}
+```
+
+---
+
+# 💼 What I Do
+
+- 🔹 Build enterprise-grade backend systems
+- 🔹 Design REST APIs
+- 🔹 Develop modern React & Vue applications
+- 🔹 ERP & Accounting integrations
+- 🔹 PostgreSQL & MySQL database design
+- 🔹 Performance optimization
+- 🔹 Clean Architecture & Domain Driven Design
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs)
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=nextdotjs)
+
+### Database
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+### Dev Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 💳 Fiscal Harmony | ZIMRA Fiscal Device Integration Platform |
+| 🏥 InternCare | Wellness Management Platform |
+| 🛒 POS System | Multi-Warehouse Inventory & Sales System |
+| ☁️ ERP Integrations | Xero • Sage • Accounting APIs |
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanexy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanexy&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanexy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=tanexy&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:tanakaclive29@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/clive-tanaka-hapadziwi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://bsky.app/profile/musharukwa007.bsky.social">
+<img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Great software isn't just code—it's solving real problems elegantly."*
+
+</p>
