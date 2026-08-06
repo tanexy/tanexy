@@ -180,7 +180,7 @@ My goal is always to build software that lasts—not just software that works.
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,go-gin,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=dotnet,gin,nodejs,express" />
 </p>
 
 ## Frontend
