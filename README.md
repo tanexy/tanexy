@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1E293B,100:2563EB&text=Clive%20Tanaka%20Hapadziwi&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20·%20Backend%20%26%20ERP%20Integrations&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1E293B,100:2563EB&text=Clive%20Tanaka%20Hapadziwi&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Backend%20and%20ERP%20Integrations&descAlignY=60&descAlign=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Backend+Engineer+%40+Fiscal+Harmony;.NET+%2F+C%23+%7C+Go+%7C+React+%2F+TypeScript;ERP+%26+Fiscal+Compliance+Integrations;Building+Scalable%2C+Maintainable+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Backend+Engineer+%40+Fiscal+Harmony;.NET+%2F+C%23+%7C+Go+%7C+React+%2F+TypeScript;ERP+and+Fiscal+Compliance+Integrations;Building+Scalable%2C+Maintainable+Systems"/>
 
 <p>
   <a href="https://github.com/tanexy"><img src="https://img.shields.io/github/followers/tanexy?label=Followers&style=flat-square&color=2563EB"/></a>
