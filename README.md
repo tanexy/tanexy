@@ -24,46 +24,39 @@ Currently building at **Fiscal Harmony**, where my work centers on ZIMRA fiscal 
 
 ## What I Work With
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 **Backend**
-- ASP.NET Core · Entity Framework
-- Go (Gin, GORM)
-- REST API design, JWT/OAuth
-- Clean Architecture, DDD
-
-</td>
-<td valign="top" width="50%">
+<br/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/GORM-00ADD8?style=flat-square"/>
 
 **Frontend**
-- React · TypeScript
-- TanStack Query
-- Angular
-- TailwindCSS
-
-</td>
-</tr>
-<tr>
-<td valign="top">
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/NativeScript-3655FF?style=flat-square&logo=nativescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 **Data**
-- PostgreSQL · MySQL
-- Redis
-- Atlas (schema migrations)
-
-</td>
-<td valign="top">
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Atlas-7B61FF?style=flat-square"/>
 
 **Cloud & Tooling**
-- Docker · Nginx
-- GitHub Actions / CircleCI
-- Linux · Azure
-
-</td>
-</tr>
-</table>
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 
 <br/>
 
@@ -90,9 +83,15 @@ Currently building at **Fiscal Harmony**, where my work centers on ZIMRA fiscal 
 <div align="center">
 <br/>
 
-### Contribution Activity
+### Contribution Calendar
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanexy&theme=minimal&hide_border=true&area=true&line=2563EB&point=1E293B"/>
+<img src="https://ghchart.rshah.org/2563EB/tanexy" alt="tanexy's GitHub contribution calendar"/>
+
+<br/><br/>
+
+### Multi-Year Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanexy&theme=minimal&hide_border=true&area=true&line=2563EB&point=1E293B&year=2024-2026"/>
 
 </div>
 
