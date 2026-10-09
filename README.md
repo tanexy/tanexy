@@ -18,7 +18,7 @@
 
 I'm a software engineer working across **enterprise backend systems**, **ERP/fiscal integrations**, and **point-of-sale platforms**. I care about clean architecture, systems that stay maintainable as they grow, and solving real business problems rather than shipping features for their own sake.
 
-Currently building at **Fiscal Harmony**, where my work centers on ZIMRA fiscal compliance and accounting-platform integrations.
+built at **Fiscal Harmony**, where my work centers on ZIMRA fiscal compliance and accounting-platform integrations.
 
 <br/>
 
