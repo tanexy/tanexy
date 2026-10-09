@@ -18,8 +18,6 @@
 
 I'm a software engineer working across **enterprise backend systems**, **ERP/fiscal integrations**, and **point-of-sale platforms**. I care about clean architecture, systems that stay maintainable as they grow, and solving real business problems rather than shipping features for their own sake.
 
-built at **Fiscal Harmony**, where my work centers on ZIMRA fiscal compliance and accounting-platform integrations.
-
 <br/>
 
 ## What I Work With
@@ -64,7 +62,7 @@ built at **Fiscal Harmony**, where my work centers on ZIMRA fiscal compliance an
 
 **FiscalHarmonyPOS** — .NET/C# platform integrating Xero and ZIMRA-compliant fiscal devices for real-time invoice fiscalization and transaction monitoring. Angular/React frontend.
 
-**EfficientPOS** — Full-stack point-of-sale system: Go/Gin/GORM backend, React/TypeScript/TanStack frontend, multi-warehouse inventory, and a Wails-based offline-first desktop port syncing SQLite to Postgres.
+**YoPOS** — Full-stack point-of-sale system: Go/Gin/GORM backend, React/TypeScript/TanStack frontend, multi-warehouse inventory, and a Wails-based offline-first desktop port syncing SQLite to Postgres.
 
 <br/>
 
