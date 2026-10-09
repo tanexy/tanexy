@@ -56,16 +56,6 @@ I'm a software engineer working across **enterprise backend systems**, **ERP/fis
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-<br/>
-
-## Featured Work
-
-**FiscalHarmonyPOS** — .NET/C# platform integrating Xero and ZIMRA-compliant fiscal devices for real-time invoice fiscalization and transaction monitoring. Angular/React frontend.
-
-**YoPOS** — Full-stack point-of-sale system: Go/Gin/GORM backend, React/TypeScript/TanStack frontend, multi-warehouse inventory, and a Wails-based offline-first desktop port syncing SQLite to Postgres.
-
-<br/>
-
 ## GitHub Stats
 
 <div align="center">
